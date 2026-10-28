@@ -1,0 +1,16 @@
+image,n_faces,time_ms,detected,predictions
+Middle_Eastern.JPG,1,178.5,True,['Femme|25ans|Colère']
+african.JPG,1,25.5,True,['Homme|21ans|Peur']
+asien.png,7,74.9,True,"['Homme|33ans|Joie', 'Femme|19ans|Dégoût', 'Femme|21ans|Dégoût', 'Femme|8ans|Joie', 'Femme|9ans|Tristesse', 'Femme|5ans|Joie', 'Homme|12ans|Joie']"
+caucasien.JPG,1,19.0,True,['Homme|1ans|Tristesse']
+cry.JPG,1,18.9,True,['Homme|8ans|Tristesse']
+face_mask.JPG,1,18.7,True,['Femme|30ans|Peur']
+kids.png,3,34.1,True,"['Femme|26ans|Joie', 'Femme|23ans|Joie', 'Femme|29ans|Dégoût']"
+multifaces.JPG,6,58.7,True,"['Homme|28ans|Surprise', 'Homme|41ans|Surprise', 'Homme|44ans|Joie', 'Homme|32ans|Colère', 'Homme|28ans|Joie', 'Femme|32ans|Joie']"
+normale.JPG,1,18.0,True,['Homme|37ans|Dégoût']
+old.png,1,17.6,True,['Homme|79ans|Joie']
+partially_covered.JPG,0,9.1,False,[]
+sunglasses.JPG,1,17.6,True,['Homme|44ans|Neutre']
+sunlight.JPG,1,17.6,True,['Femme|65ans|Neutre']
+voile.jpg,1,18.3,True,['Homme|38ans|Dégoût']
+women.png,1,18.7,True,['Femme|18ans|Joie']

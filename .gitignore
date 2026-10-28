@@ -1,0 +1,7 @@
+faces_detection_app/venv311/ 
+venv/ 
+.venv/ 
+__pycache__/ 
+*.pyc 
+MODEL/best_model_ft (4).pth 
+faces_detection_app/mtl_model.pth 

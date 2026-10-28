@@ -1,0 +1,16 @@
+image,n_faces,time_ms,detected,fps_eq,mean_score
+Middle_Eastern.JPG,1,3098.37,True,0.3,0.999
+african.JPG,1,3857.94,True,0.3,0.993
+asien.png,7,4484.98,True,0.2,0.999
+caucasien.JPG,1,3580.44,True,0.3,1.0
+cry.JPG,1,2770.11,True,0.4,1.0
+face_mask.JPG,1,4319.27,True,0.2,0.984
+kids.png,3,2494.82,True,0.4,1.0
+multifaces.JPG,6,3778.88,True,0.3,0.998
+normale.JPG,1,2722.08,True,0.4,0.999
+old.png,1,4342.93,True,0.2,0.998
+partially_covered.JPG,1,3166.53,True,0.3,0.996
+sunglasses.JPG,1,4489.09,True,0.2,0.998
+sunlight.JPG,1,3713.48,True,0.3,1.0
+voile.jpg,1,3150.95,True,0.3,0.999
+women.png,1,2907.08,True,0.3,1.0
